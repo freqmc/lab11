@@ -1,0 +1,7 @@
+﻿  FileName.c
+C:\Users\Administrator\source\repos\Project11\FileName.c(15,5): warning C4013: 'dz' undefined; assuming extern returning int
+C:\Users\Administrator\source\repos\Project11\FileName.c(28,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\source\repos\Project11\FileName.c(31,5): warning C4098: 'task01': 'void' function returning a value
+C:\Users\Administrator\source\repos\Project11\FileName.c(67,9): warning C4098: 'task02': 'void' function returning a value
+C:\Users\Administrator\source\repos\Project11\FileName.c(98,1): warning C4716: 'dz': must return a value
+  Project11.vcxproj -> C:\Users\Administrator\source\repos\Project11\x64\Debug\Project11.exe
